@@ -59,10 +59,10 @@ public class Login {
         }
     }
 
-    @AfterMethod
-    public void closeBrowser(){
-        driver.quit();
-    }
+//    @AfterMethod
+//    public void closeBrowser(){
+//        driver.quit();
+//    }
 
 
 }
